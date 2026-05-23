@@ -18,7 +18,8 @@ Simplifier la création de contenus marketing pour les boutiques en ligne en uti
 * **UI/UX :** Design "Glassmorphism" moderne et 100% responsive.
 
 ## 📸 Aperçu
-*(Insère ici une capture d'écran de l'interface ou une courte vidéo de démo)*
+<img width="963" height="586" alt="Capture d’écran 2026-05-23 à 21 13 27" src="https://github.com/user-attachments/assets/ceca0d11-02d8-4041-ad9f-8f20524fd725" />
+
 
 ---
 Projet réalisé dans le cadre de mon portfolio technique.
